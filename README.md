@@ -1,90 +1,100 @@
-<h1 align="center">Hi 👋, I'm Dadapeer K</h1>
-<h3 align="center">Software Engineering Student | Full Stack Developer | AI Enthusiast 🚀</h3>
+<h1 align="center">⚡ Hi, I'm Dadapeer K ⚡</h1>
+<h3 align="center">🚀 Software Engineering Student | Full Stack Developer | AI Builder | Future Software Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Enthusiast;Next.js+Developer;Building+Scalable+Products;Software+Engineering+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI+Enthusiast;Next.js+%7C+React+Developer;Building+Scalable+Products;Problem+Solver;Future+Software+Engineer" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=dadapeer79&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=dadapeer79&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/dadapeer79?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/dadapeer79?affiliations=OWNER&style=for-the-badge&color=yellow" />
 </p>
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="coding" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 💫 About Me
+# 💫 About Me
 
 🎓 Software Engineering Student at **CMRIT**  
-💻 Passionate about building full stack applications  
-🤖 Exploring AI-powered systems  
+💻 Passionate about building full-stack applications  
+🤖 Creating AI-powered solutions  
 🚀 Building scalable real-world products  
-🌱 Currently learning System Design & Backend Engineering  
+🌱 Learning **System Design, Backend Engineering, Cloud**  
 📍 Bangalore, India  
-⚡ Fun fact: I love turning ideas into products  
+⚡ Fun fact: *I turn ideas into products.*
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p>
-<a href="https://linkedin.com/in/dadapeer-k"><img src="https://skillicons.dev/icons?i=linkedin" height="50"></a>
-<a href="mailto:dadapeer.ise24@cmrit.ac.in"><img src="https://skillicons.dev/icons?i=gmail" height="50"></a>
-<a href="https://instagram.com/dadu_0.72"><img src="https://skillicons.dev/icons?i=instagram" height="50"></a>
-</p>
+<p align="left">
+<a href="https://www.linkedin.com/in/dadapeer-k/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
 
----
+<a href="mailto:dadapeer.ise24@cmrit.ac.in">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
 
-## 🚀 Tech Stack
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css" />
-</p>
-
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
-</p>
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql" />
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<a href="https://www.instagram.com/dadu_0.72/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🧠 Tech Arsenal
+
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,c" />
+</p>
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux" />
+</p>
+
+### ⚙ Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,supabase" />
+</p>
+
+### 🛠 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,linux" />
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dadapeer79&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadapeer79&layout=compact&theme=tokyonight" height="180"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dadapeer79&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadapeer79&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dadapeer79&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dadapeer79&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 Achievement Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dadapeer79&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dadapeer79&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dadapeer79&theme=tokyo-night"/>
@@ -92,19 +102,88 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🐍 Contribution Snake
 
-### 📊 Vyapaar Sahayak
-AI-powered retail intelligence platform.
+<p align="center">
+<img src="https://github.com/dadapeer79/dadapeer79/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
-### 🛒 E-Commerce Projects
-Modern shopping solutions.
+---
 
-### 🤖 AI Business Tools
-Automation + AI workflow projects.
+# 🚀 Featured Projects
+
+## 📊 Vyapaar Sahayak
+AI-powered retail intelligence platform with:
+- Expense Management
+- Invoice Generation
+- AI Procurement Suggestions
+- Business Analytics
+- Retail Dashboard
+
+---
+
+## 🛒 E-Commerce Platforms
+Modern shopping experiences with:
+- Responsive UI
+- Product Management
+- Payment-ready design
+- Fashion storefronts
+
+---
+
+## 🤖 AI Projects
+- AI Business Dashboards
+- Smart Automation Tools
+- Intelligent Recommendation Systems
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Learning:
+  - System Design
+  - Backend Engineering
+  - Cloud Infrastructure
+  - Advanced React Patterns
+
+Building:
+  - AI products
+  - Full Stack SaaS apps
+  - Business automation tools
+```
+
+---
+
+# ⚡ Fun Zone
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dadapeer79&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dadapeer79&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dadapeer79&theme=tokyonight"/>
+</p>
+
+---
+
+# 💻 Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 🎮 Pacman Contribution Game
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
 <p align="center">
-✨ <b>"Build things that matter."</b> ✨
+✨ <b>"Code. Build. Learn. Repeat."</b> ✨
 </p>
