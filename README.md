@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dadapeer79&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/dadapeer79?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/dadapeer79?affiliations=OWNER&style=for-the-badge&color=yellow" />
 </p>
 
 ---
@@ -72,8 +71,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dadapeer79&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadapeer79&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dadapeer79&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dadapeer79&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -81,7 +80,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dadapeer79&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dadapeer79&theme=tokyonight"/>
 </p>
 
 ---
@@ -89,7 +88,7 @@
 # 🏆 Achievement Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dadapeer79&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dadapeer79&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
@@ -105,7 +104,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/dadapeer79/dadapeer79/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/dadapeer79/dadapeer79/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
