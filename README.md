@@ -1,46 +1,89 @@
 <div align="center">
 
-# ⚡ DADAPEER.OS
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=DADAPEER%20LABS&fontAlign=50&fontAlignY=38&color=0:0f172a,50:7c3aed,100:111827&animation=fadeIn&fontColor=ffffff&desc=Product%20Engineer%20%7C%20AI%20Builder%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=62" />
 
-### Product Builder • Full Stack Engineer • AI Systems
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=1000&lines=Building+products+people+actually+use;AI-powered+business+systems;Full+Stack+Engineering;Startup+mindset;CMRIT+Software+Engineering+Student" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=24&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+products+people+actually+use;Full+Stack+Engineering;AI+Powered+Systems;Startup+Mindset;Software+Engineering+Student+at+CMRIT" />
-
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=dadapeer79&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/dadapeer79?style=for-the-badge&color=111827" />
 <img src="https://img.shields.io/badge/Bangalore-India-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CMRIT-Software%20Engineering-111827?style=for-the-badge" />
 
 </div>
 
 ---
 
-# SYSTEM.INFO
+# > boot_sequence.sh
 
 ```bash
-Name       : Dadapeer K
-Role       : Full Stack Engineer
-Education  : Software Engineering @ CMRIT
-Location   : Bangalore, India
-Focus      : AI + Product Engineering + Web Systems
-Mission    : Build scalable software that solves real problems
+initializing dadapeer profile...
+loading engineering modules...
+loading product systems...
+loading AI runtime...
+status: ONLINE
 ```
 
-I focus on creating digital products, business systems, and AI-powered solutions instead of just writing random code.
+---
+
+# SYSTEM.IDENTITY
+
+```yaml
+name: Dadapeer K
+alias: DADAPEER LABS
+role: Product Engineer
+specialization:
+  - Full Stack Development
+  - AI Systems
+  - Product Engineering
+location: Bangalore, India
+education: CMRIT
+mission: Build software that solves real business problems
+```
 
 ---
 
-# CURRENT BUILD MODE
+# WHO I AM
 
-- 📊 Vyapaar Sahayak → AI-powered retail intelligence
-- 🛒 E-commerce product experiences
-- 🤖 Business automation systems
-- ⚙ Production-ready full stack applications
+I don't just write code.
+
+I build products.
+
+From AI-powered business systems to modern commerce experiences, I focus on engineering software that solves practical real-world problems.
+
+I care about:
+- product thinking
+- scalable architecture
+- clean UX
+- business impact
+- shipping real software
 
 ---
 
-# TECH STACK
+# NOW
+
+```yaml
+currently_building:
+  - Vyapaar Sahayak
+  - AI business tools
+  - e-commerce systems
+
+currently_learning:
+  - scalable backend systems
+  - system design
+  - cloud engineering
+  - advanced react architecture
+
+goal_2026:
+  - internship
+  - production-grade systems
+  - stronger open source presence
+```
+
+---
+
+# TECH ARSENAL
 
 ### Languages
 <p align="center">
@@ -81,7 +124,15 @@ I focus on creating digital products, business systems, and AI-powered solutions
 
 ---
 
-# LIVE CONTRIBUTION GRAPH
+# LIVE ANALYTICS
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dadapeer79&theme=tokyonight"/>
+</p>
+
+---
+
+# CONTRIBUTION ACTIVITY
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dadapeer79&bg_color=0d1117&color=7C3AED&line=7C3AED&point=FFFFFF&hide_border=true" />
@@ -89,48 +140,65 @@ I focus on creating digital products, business systems, and AI-powered solutions
 
 ---
 
-# FEATURED PROJECTS
+# ACHIEVEMENTS
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dadapeer79&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# LIVE CONTRIBUTION SNAKE
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/dadapeer79/dadapeer79/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# FEATURED BUILDS
 
 ## 📊 Vyapaar Sahayak
-AI-powered retail management ecosystem.
+AI-powered retail intelligence platform.
 
-Features:
-- expense tracking
+Core modules:
+- expense management
 - invoice generation
-- procurement intelligence
+- AI procurement suggestions
 - analytics dashboard
-- business automation
+- automation workflows
 
 ---
 
-## 🛒 Commerce Systems
-Modern e-commerce applications focused on product experience and conversion.
+## 🛒 Commerce Engineering
+Modern product-focused shopping experiences.
+
+Focus:
+- conversion-focused UI
+- scalable architecture
+- responsive design
 
 ---
 
-## 🤖 AI Systems
-Intelligent assistants, dashboards, automation workflows.
+## 🤖 AI Product Systems
+Building intelligent software workflows for real-world use.
+
+Examples:
+- automation systems
+- business assistants
+- recommendation tools
 
 ---
 
-# CURRENT LEARNING
+# DAILY DEV ENERGY
 
-```yaml
-learning:
-  - system design
-  - scalable backend architecture
-  - cloud engineering
-  - advanced react ecosystem
-
-building:
-  - startup-ready software
-  - ai business products
-  - production full stack apps
-```
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ---
 
-# CONTACT
+# CONTACT.PROTOCOL
 
 <p align="center">
 
@@ -150,8 +218,18 @@ building:
 
 ---
 
+# PHILOSOPHY
+
 <div align="center">
 
-## BUILD • SHIP • IMPROVE
+> Good software should solve problems, not just exist.
+
+</div>
+
+---
+
+<div align="center">
+
+# BUILD • SHIP • IMPROVE ⚡
 
 </div>
