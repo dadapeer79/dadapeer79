@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Engineering Student | Full Stack Developer | AI Builder | Future Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI+Enthusiast;Next.js+%7C+React+Developer;Building+Scalable+Products;Problem+Solver;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI+Enthusiast;Next.js+Developer;React+Developer;Building+Scalable+Products;Problem+Solver;Future+Software+Engineer" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
-<a href="https://www.instagram.com/dadu_0.72/" target="_blank">
+<a href="https://www.instagram.com/YOUR_REAL_INSTAGRAM_USERNAME/" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
 </a>
 </p>
@@ -120,16 +120,12 @@ AI-powered retail intelligence platform with:
 - Business Analytics
 - Retail Dashboard
 
----
-
 ## 🛒 E-Commerce Platforms
 Modern shopping experiences with:
 - Responsive UI
 - Product Management
 - Payment-ready design
 - Fashion storefronts
-
----
 
 ## 🤖 AI Projects
 - AI Business Dashboards
@@ -172,14 +168,6 @@ Building:
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-# 🎮 Pacman Contribution Game
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
