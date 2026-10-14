@@ -1,96 +1,120 @@
 
+<!-- =========================================================
+     DADAPEER LABS — GITHUB PROFILE README
+     Repository: dadapeer79/dadapeer79
+     Existing contribution snake URL preserved.
+========================================================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=DADAPEER%20LABS&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ENGINEER%20%7C%20BUILDER%20%7C%20PROBLEM%20SOLVER&descAlignY=60&color=0:0f172a,50:6d28d9,100:111827&animation=fadeIn" width="100%" />
+<a href="https://github.com/dadapeer79">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=DADAPEER%20LABS&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%20%7C%20PRODUCTS&descSize=15&descAlignY=59&color=0:050816,35:312e81,70:7c3aed,100:050816&animation=fadeIn" alt="Dadapeer Labs"/>
+</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+ideas+into+real+products;AI-Powered+Applications;Full+Stack+Development;Learning+Testing+%26+Debugging;Engineering+with+Purpose" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+Ideas+Into+Real+Products;AI-Powered+Applications;Full+Stack+Development;Learning+Testing+%26+Debugging;Think.+Build.+Ship.+Improve." alt="Developer introduction"/>
 
 <br/><br/>
 
 <a href="https://github.com/dadapeer79">
-<img src="https://img.shields.io/badge/GitHub-dadapeer79-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-Explore_My_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/dadapeer-k">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://www.instagram.com/dadu_0.7/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-Follow_My_Journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=dadapeer79&label=PROFILE+VISITS&color=7c3aed&style=flat-square" alt="Profile visits"/>
+<img src="https://komarev.com/ghpvc/?username=dadapeer79&style=for-the-badge&color=7c3aed&label=PROFILE+VISITS" alt="Profile visits"/>
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS_BUILDING-7C3AED?style=flat-square" alt="Always building"/>
+<img src="https://img.shields.io/badge/BASED_IN-BENGALURU-2563EB?style=flat-square" alt="Bengaluru"/>
 
 </div>
 
 ---
 
-<h2 align="center">01 / SYSTEM.IDENTITY</h2>
+## `01` // SYSTEM BOOT
 
-```yaml
-name: Dadapeer K
-alias: DADAPEER LABS
-role: Software Engineering Student
-college: CMRIT
-location: Bangalore, India
-
-interests:
-  - Full Stack Development
-  - Artificial Intelligence
-  - Product Engineering
-  - Software Testing
-  - Startup Innovation
-
-mission: Build software that solves real-world problems
-status: Always Learning
+```text
+╔══════════════════════════════════════════╗
+║           DADAPEER LABS v2.0             ║
+╠══════════════════════════════════════════╣
+║  Initializing developer profile...       ║
+║  Loading engineering modules...          ║
+║  Connecting ideas with technology...     ║
+║  Exploring AI-powered systems...          ║
+║                                          ║
+║  SYSTEM STATUS : READY TO BUILD           ║
+╚══════════════════════════════════════════╝
 ```
 
+## `02` // WHOAMI
+
+<div align="center">
+
+### Hey, I'm Dadapeer K 👋
+
+**Software Engineering Student · AI Enthusiast · Product Builder**
+
+</div>
+
+I'm an Information Science Engineering student at **CMRIT**, interested in building practical software, exploring artificial intelligence, and turning ideas into useful digital products.
+
+I enjoy developing web applications, integrating APIs, testing and debugging code, and learning how software systems work behind the scenes.
+
+- Building applications that solve real-world problems
+- Exploring AI, automation, and full-stack engineering
+- Learning software testing, debugging, and backend systems
+- Experimenting with startup ideas and digital products
+- Looking for opportunities to learn, collaborate, and build
+
+<div align="center">
+
+> **I don't just want to write code. I want to build products people actually use.**
+
+</div>
+
 ---
 
-<h2 align="center">02 / ABOUT ME</h2>
-
-Hi! I'm **Dadapeer K**, a Software Engineering student passionate about building practical applications, exploring AI, and turning ideas into working products.
-
-I enjoy experimenting with modern technologies, developing user-friendly interfaces, connecting APIs, debugging applications, and learning how real-world software systems work.
-
-- Building AI-powered applications and business tools
-- Exploring frontend and backend development
-- Learning software testing, debugging, and system design
-- Experimenting with entrepreneurship and product ideas
-- Interested in internships, collaborations, and open source
-
-> I don't just want to write code. I want to build products that people actually use.
-
----
-
-<h2 align="center">03 / CURRENT OPERATIONS</h2>
+## `03` // CURRENT OPERATIONS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">BUILDING</h3>
+<div align="center">
+
+### 🟣 BUILDING
+
+</div>
 
 **Vyapaar Sahayak / MOPA**
 
 An AI-powered retail business management platform.
 
-- Business analytics dashboard
 - Expense management
 - Invoice generation
-- AI procurement suggestions
-- Business reporting
+- Business analytics
+- AI-assisted procurement
+- Reporting and business insights
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">LEARNING</h3>
+<div align="center">
 
-**Engineering & Development**
+### 🔵 LEARNING
 
-- React and modern JavaScript
+</div>
+
+**Engineering & Product Development**
+
+- React and JavaScript
 - Backend APIs and databases
 - Software testing and debugging
 - Cloud deployment
@@ -102,86 +126,100 @@ An AI-powered retail business management platform.
 
 ---
 
-<h2 align="center">04 / TECH ARSENAL</h2>
+## `04` // TECH ARSENAL
 
-<h3 align="center">Programming Languages</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,html,css" alt="Programming languages"/>
-</p>
+### `LANGUAGES`
 
-<h3 align="center">Frontend Development</h3>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,html,css&theme=dark" alt="Programming languages"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux" alt="Frontend technologies"/>
-</p>
+### `FRONTEND ENGINEERING`
 
-<h3 align="center">Backend & Databases</h3>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux&theme=dark" alt="Frontend stack"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql,supabase" alt="Backend technologies"/>
-</p>
+### `BACKEND & DATABASES`
 
-<h3 align="center">Tools & Platforms</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql,supabase&theme=dark" alt="Backend and databases"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,linux" alt="Developer tools"/>
-</p>
+### `DEVELOPER TOOLKIT`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,linux&theme=dark" alt="Developer tools"/>
+
+</div>
 
 ---
 
-<h2 align="center">05 / FEATURED BUILDS</h2>
+## `05` // FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>📊 Vyapaar Sahayak</h3>
+<h3 align="center">◈ VYAAPAAR SAHAYAK</h3>
 
-**AI-Powered Retail Management**
+<div align="center">
+<img src="https://img.shields.io/badge/DOMAIN-AI%20%2B%20BUSINESS-7C3AED?style=flat-square"/>
+</div>
 
-A business application concept focused on helping retailers manage daily operations and understand business performance.
+An AI-powered retail management application focused on simplifying business operations.
 
-**Key modules**
-- Expense tracking
+**Core modules**
+
+- Financial and expense tracking
 - Invoice generation
-- Analytics
-- AI-assisted procurement
+- Analytics dashboard
+- AI procurement suggestions
+
+**Stack:** Next.js · Firebase · AI integrations
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🎯 RankRoute</h3>
+<h3 align="center">◈ RANKROUTE</h3>
 
-**KCET College Predictor**
+<div align="center">
+<img src="https://img.shields.io/badge/DOMAIN-EDTECH-2563EB?style=flat-square"/>
+</div>
 
-An engineering college discovery and prediction platform designed for Karnataka students exploring their KCET counselling options.
+A KCET college prediction platform concept designed to help Karnataka engineering aspirants explore counselling options.
 
-**Planned capabilities**
-- Rank-based predictions
-- College exploration
-- Cutoff analysis
-- Mock tests and preparation
+**Core modules**
+
+- Rank-based college prediction
+- College and cutoff exploration
+- Mock test preparation
+- College discovery
+
+**Stack:** React · Python · Flask
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>📚 Studo</h3>
+<h3 align="center">◈ STUDO</h3>
 
-**Smart Study Planner**
+<div align="center">
+<img src="https://img.shields.io/badge/DOMAIN-PRODUCTIVITY-0891B2?style=flat-square"/>
+</div>
 
-A student productivity concept for organizing study sessions, planning exam preparation, and managing schedules.
+A student productivity application concept for planning study sessions, creating schedules, and organizing exam preparation.
+
+**Focus:** Web development · Productivity · UX
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🤖 AI Product Systems</h3>
+<h3 align="center">◈ AI PRODUCT SYSTEMS</h3>
 
-**Intelligent Workflows**
+<div align="center">
+<img src="https://img.shields.io/badge/DOMAIN-AUTOMATION-9333EA?style=flat-square"/>
+</div>
 
-Exploring AI assistants, automation, and practical integrations that help simplify repetitive tasks.
+Exploring AI assistants, intelligent workflows, and API integrations that can simplify repetitive tasks.
+
+**Focus:** AI · APIs · Automation
 
 </td>
 </tr>
@@ -190,58 +228,53 @@ Exploring AI assistants, automation, and practical integrations that help simpli
 <div align="center">
 
 <a href="https://github.com/dadapeer79?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
 </a>
 
 </div>
 
 ---
 
-<h2 align="center">06 / CONTRIBUTION MATRIX</h2>
+## `06` // CONTRIBUTION MATRIX
 
 <div align="center">
 
-<!-- Existing contribution snake URL retained exactly -->
+**CONSISTENCY OVER PERFECTION. KEEP SHIPPING.**
 
-<img src="https://raw.githubusercontent.com/dadapeer79/dadapeer79/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
+<!-- ORIGINAL SNAKE IMAGE URL: PRESERVED -->
+<img src="https://raw.githubusercontent.com/dadapeer79/dadapeer79/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
 
 </div>
 
-<p align="center">
-<sub>Consistency beats perfection. Keep building, learning, and contributing.</sub>
-</p>
-
 ---
 
-<h2 align="center">07 / BEYOND THE TERMINAL</h2>
-
-<div align="center">
+## `07` // BEYOND THE TERMINAL
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
 ### 💻
 
-**Engineering**
+**ENGINEERING**
 
-Building applications and exploring software systems.
+Building applications and exploring how software works.
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
 ### 🚀
 
-**Entrepreneurship**
+**ENTREPRENEURSHIP**
 
-Experimenting with product ideas and business concepts.
+Experimenting with product ideas, business concepts, and my clothing brand.
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
 ### 🎬
 
-**Content Creation**
+**CONTENT CREATION**
 
 Creating food and promotional content with Milky Mirchi.
 
@@ -249,48 +282,55 @@ Creating food and promotional content with Milky Mirchi.
 </tr>
 </table>
 
+---
+
+## `08` // DEVELOPER PRINCIPLES
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-THINK-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02-BUILD-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03-TEST-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04-SHIP-7C3AED?style=for-the-badge"/>
+
+<br/><br/>
+
+*Good engineering is not only about writing code. It is about solving the right problem.*
+
 </div>
 
 ---
 
-<h2 align="center">08 / CONNECT.PROTOCOL</h2>
+## `09` // CONNECT.PROTOCOL
 
 <div align="center">
 
+### Have an idea? Let's build something meaningful.
+
 <a href="https://github.com/dadapeer79">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-dadapeer79-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dadapeer-k">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:dadapeer.ise24@cmrit.ac.in">
-<img src="https://img.shields.io/badge/Email-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Let's_Talk-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.instagram.com/dadu_0.7/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-dadu_0.7-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <br/><br/>
 
-**Open to learning, building, and collaborating.**
-
-</div>
-
----
-
-<h2 align="center">09 / CORE.PHILOSOPHY</h2>
-
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050816,45:312e81,75:7c3aed,100:050816" alt="Footer animation"/>
 
 ### BUILD WITH PURPOSE.
 ### SHIP WITH CONFIDENCE.
-### IMPROVE EVERY DAY.
+### IMPROVE EVERY DAY. ⚡
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:6d28d9,100:0f172a" width="100%" alt="Purple footer"/>
+<sub>© DADAPEER LABS · Built with curiosity and consistency.</sub>
 
 </div>
